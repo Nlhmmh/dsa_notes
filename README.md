@@ -4,13 +4,21 @@ This repository contains concise notes and reference material for common
 data structures and algorithms. It's intended for quick review and study.
 
 ## Contents
+
+### Big O Notation
+
+### Algorithms & Data Structures
+- Basic : Logic, Recursion
 - Arrays
-- Linked Lists
-- Stacks & Queues
-- Trees (BST, Heap, Trie)
-- Graphs (BFS, DFS, shortest paths)
-- Sorting & Searching
-- Dynamic Programming
+  - Sorting
+    - Bubble Sort
+    - Insertion Sort
+    - Selection Sort
+    - Merge Sort
+    - Quick Sort
+  - Searching
+    - Linear Search
+    - Binary Search
 
 ## Author
 Nathan
